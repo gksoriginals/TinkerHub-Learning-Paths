@@ -13,6 +13,8 @@ Before jumping into MCP, you should be comfortable with:
 
 ### Learn Programming
 - [Codecademy: Learn to Code](https://www.codecademy.com/learn)
+
+### Understand how APIs works
 - [FreeCodeCamp: APIs and Microservices](https://www.freecodecamp.org/learn/apis-and-microservices/)
 
 ---
