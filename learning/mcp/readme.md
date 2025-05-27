@@ -37,7 +37,7 @@ MCP is most powerful when used with LLMs! Get familiar with:
 
 ---
 
-## 3. First Principles: Protocols & Interoperability 🌐
+## 3. Protocols & Interoperability 🌐
 
 MCP builds on concepts from other protocols. Understanding these helps you see why MCP is needed.
 
