@@ -4,7 +4,7 @@ This path is designed to help students learn how to build modern AI applications
 
 ---
 
-## 1. Programming, LLM & API Basics 🧑‍💻
+## 1. Programming & API Basics 🧑‍💻
 
 Before jumping into MCP, you should be comfortable with:
 - Basic programming (any language: Python, JavaScript, Java, etc.)
